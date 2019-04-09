@@ -1,0 +1,125 @@
+
+/*  #13293D Yankees Blue
+    #466362 Deep Space Sparkle
+    #8896AB Gray-Blue
+    #5A5A66 Black Coral
+*/
+
+
+
+
+
+/* Global Styles */
+
+body {
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    color: lightgray;
+    font-family: 'Roboto', sans-serif;
+}
+
+a{
+    color: #FFF;
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+}
+
+h1, h2 {
+    color: black;
+    font-family: 'Lato', sans-serif;
+    font-weight: 400;
+}
+h1{
+    font-size: 80px;
+}
+h2{
+    font-size: 40px;
+}
+
+main {
+    margin: -16px 0;
+}
+
+.content-wrap {
+    max-width: 950px;
+    margin: 0 auto;
+    padding: 20px;
+    overflow: auto;
+}
+/*--------------- Header and Footer ---------------*/
+
+header, footer {
+    background: #13293D;
+}
+
+
+
+/*----- Header ---- */
+
+header h1, header h2 {
+    color: white;
+
+}
+
+#profile-img {
+    width: 300px;
+    border-radius: 50%;
+    float: left;
+    margin-right: 30px;
+}
+
+
+/*-------- Footer ------*/
+
+footer {
+    text-align: center;
+}
+
+footer h2 {
+    color: white;
+    font-size: 30px;
+}
+
+.contact-info a {
+    margin: 10px;
+}
+/*---------------- Work Experience -------------*/
+
+#work {
+    padding: 20px;
+    color: #13293D;
+}
+
+
+/*--------------- Education --------------*/
+
+#edu {
+    background: #5A5A66;
+    padding: 20px;
+}
+
+
+/* --------------- Skills ---------------*/
+
+#skills {
+    padding: 20px;
+    color: #13293D;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
